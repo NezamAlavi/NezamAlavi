@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @NezamAlavi
 - 👀 I’m interested in robotics 
 - 🌱 I’m currently learning about iaido and the way of the japanese sword
-- 💞️ I’m looking to collaborate on cool robot projects
-- 📫 Checkout my website at:
-  https://www.nezam-alavi.com/
+- 💞️ I’m looking to collaborate on robotic projects with real world applications
+- 📫 Checkout my website at:  https://www.nezam-alavi.com/
 - ⚡ Fun fact: I'm a 3rd degree blackbelt in the World Taekwondo Federation
 
 <!---
